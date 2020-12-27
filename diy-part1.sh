@@ -12,7 +12,7 @@
 # 自定义插件
 git clone https://github.com/jerrykuku/lua-maxminddb.git package/lean
 git clone https://github.com/jerrykuku/luci-app-vssr.git package/lean/luci-app-vssr
-git clone https://github.com/jerrykuku/luci-app-jd-dailybonus.git/luci-app-jd-dailybonus
+git clone https://github.com/jerrykuku/luci-app-jd-dailybonus.git package/lean/luci-app-jd-dailybonus
 
 # Uncomment a feed source
 #sed -i 's/^#\(.*helloworld\)/\1/' feeds.conf.default
